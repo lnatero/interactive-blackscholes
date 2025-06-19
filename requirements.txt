@@ -1,0 +1,5 @@
+matplotlib >= 3.9.2
+blackscholes == 0.2.0
+ipywidgets >= 8.1.7
+ipympl == 0.9.7
+numpy >= 2.1.2
